@@ -1,7 +1,5 @@
-<body>
-
 <div class="container" style="max-width: 800px; margin: 20px auto; padding: 0 20px; font-family: Arial, sans-serif;">
-  <h1 style="font-size: 36px; margin-bottom: 20px;">Data Structures and Algorithms Interview Preparation</h1>
+  <h1 style="font-size: 56px; margin-bottom: 30px; ">Data Structures and Algorithms Interview Preparation</h1>
   <p>Welcome to the Data Structures and Algorithms Interview Preparation repository! This repository is dedicated to helping you ace your interviews with top tech companies, including FAANG (Facebook, Amazon, Apple, Netflix, Google), by providing a curated collection of practice problems and resources.</p>
 
   <h2 style="font-size: 24px; margin-bottom: 15px;">About</h2>
