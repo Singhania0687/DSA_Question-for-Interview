@@ -1,0 +1,19 @@
+#!/bin/bash
+echo "                             ########################## Here are my intro #####################
+
+"
+user="Abhishek"
+age="25"
+city="Bhagalpur "
+course="B.Tech in Electronics and Communication Engineering"
+cgpa="8.2"
+clg="Bhaglpur College Of Engineering "
+echo "Hello all, I am  ${user} age ${age} from ${city} pursuing ${course} from ${clg} with CGPA ${cgpa}
+
+" 
+
+read -p  "Enter your name "  name
+ 
+read -p "Enter your age  " age
+read -p "Enter your password " -s pass
+echo "Hello ${name} your age is ${age} ${pass} is your password "
